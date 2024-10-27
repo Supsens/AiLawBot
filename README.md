@@ -26,6 +26,8 @@ https://nomosbot.netlify.app
 - **Chain-of-Thought Processing**: Breaks down complex queries into manageable steps to enhance answer quality.
 - **Retrieval-Augmented Generation (RAG)**: Improves response accuracy by combining real-time information retrieval with response generation.
 - **Powered by Gemini API**: Integrates Gemini's latest API capabilities for high-performance processing and data handling.
+- **Strictly answers law based Querys**: It answers only law based queries and does not give the output if its not somehitng law related.
+- ![Screenshot 2024-10-27 100126](https://github.com/user-attachments/assets/0dd86bf0-42b3-4e09-9d67-a2ae6ba26987)
 
 ## Frontend
 
