@@ -4,6 +4,10 @@ FIRST CHECKOUT THE VIDEO OF HOW OUR CHATBOT EXACTLY WORKS AND THEN FURTHER CHECK
 
 
 <video controls src="20241027-0148-23.2433515.mp4" title="Title"></video>
+
+## Drive link to Demonstration of NomosBot
+
+https://drive.google.com/file/d/1tZ-UjY9qsI-w_Xk3Rucz91K6PcJuPNR3/view
 # Nomos - AI Law Chatbot
 
 
