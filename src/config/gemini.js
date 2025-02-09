@@ -8,7 +8,7 @@ async function runChat(prompt) {
     const genAI = new GoogleGenerativeAI(import.meta.env.VITE_GEMINI_API_KEY);
 
     const model = genAI.getGenerativeModel({
-        model: "gemini-1.5-pro-exp-0801",
+        model: "gemini-2.0-flash",
     });
 
     const generationConfig = {
